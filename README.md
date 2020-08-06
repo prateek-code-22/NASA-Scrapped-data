@@ -1,4 +1,4 @@
-# Used 6 different NASA API THAT I HAVE WORKED ON:
+# Used 6 different NASA API that I have worked on:
 1. Astronomy Picture of the Day(APOD)
 2. MARS ROVER PHOTOS
 3. Earth Polychromatic Imaging Camera (EPIC) 
