@@ -1,6 +1,6 @@
 # NASA Scrapped data
-## In this repository I Have used 6 different NASA APIs to collect data and images which can be used to create datasets.
-## NASA APIs
+### In this repository I Have used 6 different NASA APIs to collect data and images which can be used to create datasets.
+# NASA APIs used:
 ### 1. Astronomy Picture of the Day(APOD)
 ### 2. MARS ROVER PHOTOS
 ### 3. Earth Polychromatic Imaging Camera (EPIC) 
