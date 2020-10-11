@@ -27,7 +27,6 @@ Images:
 ## 3. [Earth Polychromatic Imaging Camera (EPIC)](https://github.com/prateek-code-22/NASA-Scrapped-data/blob/master/EPIC_api.ipynb)
 This api returns daily images taken by DSCOVR's Earth Polychromatic Imaging Camera (EPIC) instrument.
 
-Look like this:
 ![alt epic](/Output_images/epic.jpg)
 
 
@@ -41,15 +40,18 @@ sample image:
 ## 5. [Asteroids-NeoWs (Near Earth Object Web Service)](https://github.com/prateek-code-22/NASA-Scrapped-data/blob/master/Neows_Scrap.ipynb)
 Using NASA NEOWS API we can Extract Links , **Number of elements passed** , **Near earth object** like informations for particular Asteroids passed near earth.
 
+Output:
+![alt img](/Output_images/neows.jpg)
 
 ## 6. [EARTH API](https://github.com/prateek-code-22/NASA-Scrapped-data/blob/master/Earth_api.ipynb)
 This api gives informations like **date**, **id**, **resource**, **service_version**, **url** for your input data (latitude and longitude cordinates , date , dimension of image).
 
-Example image:
 ![alt earth](/Output_images/earth.jpg)
+
 
 ## Conclusion:
    Using these apis large text data which are in json format can be converted into csv files and the images can be used to create datasets.
    
-If you finds this repository helpful then add a :star: to it.
-Thanks 
+
+
+If you finds this repository helpful then add a :star: to it. 
