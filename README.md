@@ -50,8 +50,8 @@ This api gives informations like **date**, **id**, **resource**, **service_versi
 
 
 ## Conclusion:
-   Using these Apis large text data which are in json format can be converted into csv files and the images can be used to create datasets for exploration.
-   
+   Using these APIs large text data which are in json format can be converted into csv files and the images can be used to create datasets for exploration.
+   for more [Reference](https://github.com/prateek-code-22/NASA-Scrapped-data/blob/master/More_info.md)
 
 If you finds this repository helpful then add a :star: to it. 
 
