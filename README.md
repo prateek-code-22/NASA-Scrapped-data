@@ -50,8 +50,9 @@ This api gives informations like **date**, **id**, **resource**, **service_versi
 
 
 ## Conclusion:
-   Using these apis large text data which are in json format can be converted into csv files and the images can be used to create datasets.
+   Using these Apis large text data which are in json format can be converted into csv files and the images can be used to create datasets for exploration.
    
 
-
 If you finds this repository helpful then add a :star: to it. 
+
+Thanks :smiley:
